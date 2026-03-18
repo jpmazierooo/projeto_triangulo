@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 /**
- *
+ *     
  * @author João Pedro Maziero
  */
 public class Principal {
